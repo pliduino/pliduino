@@ -63,7 +63,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pliduino&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
-<img src="https://vercel-9konrga8c-pliduino.vercel.app/api/top-langs/?username=pliduino&layout=compact" align="center">
+<div align="center"><img src="https://vercel-9konrga8c-pliduino.vercel.app/api/top-langs/?username=pliduino&layout=compact" align="center" /></div>
 
 <br/>  
 
