@@ -66,15 +66,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pliduino&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
-<!--START_SECTION:waka-->
-```text
-C++        6 hrs 33 mins   █████████▓░░░░░░░░░░░░░░░   38.29 % 
-Lua        3 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 % 
-Python     3 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Other      2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Makefile   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-```
-<!--END_SECTION:waka-->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ryu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" align="center" /></div> 
+
 
 <br/>  
 
